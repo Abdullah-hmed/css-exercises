@@ -1,0 +1,29 @@
+* {
+    /* font-family: 'Times New Roman', Times, serif; */
+}
+
+.Number {
+    background-color: pink;
+}
+
+.one {
+    font-size: small;
+}
+
+#two {
+    font-family: 'Times New Roman', serif;
+    color: blue;
+    font-size: xx-large;
+}
+
+.three {
+    font-size: larger;
+
+}
+
+#four {
+    font-family: 'Times New Roman', serif;
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: large;
+}
